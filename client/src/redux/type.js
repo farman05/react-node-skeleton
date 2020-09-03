@@ -1,0 +1,3 @@
+export const FLASH_MESSAGE = "FLASH_MESSAGE";
+export const BUTTON_DISABLED = "BUTTON_DISABLED";
+export const SHOW_LOADER = "SHOW_LOADER";
