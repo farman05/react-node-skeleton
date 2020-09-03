@@ -1,5 +1,5 @@
 import { FLASH_MESSAGE, SHOW_LOADER, BUTTON_DISABLED } from "../type";
-import { apiCall } from "../../../helpers";
+import { apiCall } from "../../helpers";
 
 export function flashMessage(payload) {
     return {
